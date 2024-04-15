@@ -5,6 +5,8 @@
 ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
+{"key":"萌米","name":"萌米┃App","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+
     {"key":"drpy_js_荐片","name":"经典✂造型|荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js", "timeout":30},
     {"key": "天天","name": "经典✂造型| 天天","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
 
