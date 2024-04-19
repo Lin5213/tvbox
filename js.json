@@ -6,6 +6,7 @@
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
     {"key": "鑫鑫影视","name": "🍩鑫鑫","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
+    {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
