@@ -20,8 +20,6 @@
 {"key":"美剧迷","name":"弹幕 | 美剧迷[jar]","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.meijumi.xyz/$$$null$$$1"},
 {"key":"Ppxzy","name":"弹幕 | 皮皮虾[jar]","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ppxzy.net/$$$null", "timeout":30}, 
 {"key":"新6V","name":"弹幕 | 新6V[jar]","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.66ss.org$$$1"},
-{"key":"校长影视","name":"弹幕 | 校长[jar]","type":3,"api":"csp_XiaoZhang","ext":"http://127.0.0.1:9978/file/TV/token.json","quickSearch":1,"changeable":1,"timeout":30},
-{"key":"团长资源","name":"弹幕 | 团长[jar]","type":3,"api":"csp_TZFile","ext":"http://127.0.0.1:9978/file/TV/token.json", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"csp_Hdhive","name":"弹幕 | 影巢[jar]","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json","timeout":30},
 {"key":"YingSo","name":"磁力 | 影搜[jar]","type":3,"api":"csp_YingSo","timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$1"},
 {"key":"drpy_js_酷云77","name":"影视 | 酷云77[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
